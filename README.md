@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Faço parte do projeto TATU
 - 🌱 Estudando Typescript e React Native
 - 📫 Contacte-me no email: ricklinosantos@gmail.com / rmls@ic.ufal.br
 
