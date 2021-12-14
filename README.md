@@ -1,4 +1,4 @@
-### Hello world! Eu sou o Rick Santos!
+### Hello world! I'm a Rick Santos!
 
 
 
