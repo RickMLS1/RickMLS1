@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Typescript e React Native
+- 🌱 Estudando Dart/Flutter Web
 - 📫 Contacte-me no email: ricklinosantos@gmail.com / rmls@ic.ufal.br
 
  <div>
