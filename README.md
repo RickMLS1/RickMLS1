@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando ReactJS
+- 🌱 Aperfeiçoando os conhecimentos em Computer Vision e Data Science
 - 📫 Contacte-me no email: ricklinosantos@gmail.com / rmls@ic.ufal.br
 
  <div>
